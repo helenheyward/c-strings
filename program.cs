@@ -12,7 +12,7 @@ namespace Strings
     {
         static void Main(string[] args)
         {
-            string myString = "That day, life felt good and everlasting";
+            string myString = "I'm learning how to push it with Try Git!  http://bit.ly/TryGit via @codeschool";
             
             myString = myString.Replace(" ", "--");
             
